@@ -1,0 +1,22 @@
+COMANDOS GIT
+
+pwd 	   => Muestar ubicacion de donde estamos
+ld 		   => Muestra los archivos que estan dentro del proyecto
+
+git init   => Crear un nuevo Repositirio de GIT
+git status => Nos muestra los archivos con los que estamos trabajando (VER EL ESTADO DEL DIRECTORIO DE TRABAJO)
+git add "Fichero A.txt" => Agregar ficheros al Area de trabajo, cuando el fichero queda agregado queda en verde
+
+
+Para hacre un commit primero debemos identificarnos con los comandos:
+
+git config --global user.email "test@ecromilakis.com"
+git config --global user.name "Efrain"
+
+
+git commit => Abre el editor Bin
+
+Para definir el nombre hay que presionar la letra [ i ] y Escribir el nombre que necesita
+Para GRABAR EL NOMBRE:
+Presionar Escape luego :wp + Luego Enter
+git log => para ver los cambios

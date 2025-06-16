@@ -20,3 +20,8 @@ Para definir el nombre hay que presionar la letra [ i ] y Escribir el nombre que
 Para GRABAR EL NOMBRE:
 Presionar Escape luego :wp + Luego Enter
 git log => para ver los cambios
+
+
+Fichero Modificado denuevo
+Fichero modificado otra vez ósea...
+
